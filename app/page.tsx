@@ -18,9 +18,9 @@ export default function Home() {
           </div>
           
           <p className="text-gray-400 max-w-lg">
-            Hello, I&apos;m Leone Munyao, a Software and Web3 Developer passionate about 
-            creating innovative blockchain solutions and efficient, user-friendly 
-            applications. I&apos;m passionate about using technology to solve problems and 
+            Hello, I&apos;m Leone Munyao, a Back-End and Smart Contract Developer passionate about 
+            creating innovative blockchain solutions and efficient, back-end applications.
+            I&apos;m passionate about using technology to solve problems and 
             build a better, more connected world.
           </p>
         </div>

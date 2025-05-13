@@ -1,9 +1,9 @@
 export default function Education() {
   const education = [
     {
-      title: "Software Engineering",
+      title: "Software Engineering - Pro Back-End Development",
       institution: "ALX Africa",
-      period: "Aug 2023 - Aug 2024"
+      period: "March 2025 - Present"
     },
     {
       title: "Bachelor of Science in Statistics and Computer Science",
