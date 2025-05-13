@@ -7,6 +7,34 @@ import { ExternalLink } from 'lucide-react';
 export default function Projects() {
   const projects = [
     {
+      title: "Belle Airport - SQL Datbase",
+      year: "2025",
+      description: "This is a SQLite Database System to manage airport operations including flights, reservations, and personnel management. It consists of 8 interconnected tables. The tables are; Airport Table, Flight Table, Departure Table, Pilot Table, Equip_Type Table, Passenger Table, Ticket Table and Reservation Table.",
+      image: "/images/Airport.jpeg",
+      link: "https://github.com/leonemunyao/Belle-Airport"
+    },
+    {
+      title: "Weather Trend Analysis -  Data Analysis with Python",
+      year: "2025",
+      description: "This is a Python mini-project to perform basic weather data analysis and predict future weather patterns from the data provided. The main components are as follows; Data Loading(loading historical data from a CSV file), Analysis(predicting future trends using linear regression) and Visualization(plotting future trends with comparisons using matplotlib).",
+      image: "/images/weather.jpeg",
+      link: "https://github.com/leonemunyao/python-mini-project-group1"
+    },
+    {
+      title: "Ecommerce Database and Backend",
+      year: "2025",
+      description: "This is a Database and Backend of an ecommerce platform where I have used PostgreSQL for Database, Prisma as the ORM, Language is TypeScript and Framework is Node.js with Express.js. The main aim of the project is to advance by backend development skills. Testing the Backend functionality is done using postman.",
+      image: "/images/ecommerce.jpeg",
+      link: "https://github.com/leonemunyao/Postgres-TS_Backend"
+    },
+    {
+      title: "Portfolio Website",
+      year: "2025",
+      description: "A modern, responsive portfolio website built with Next.js and Tailwind CSS, showcasing my projects and professional experience.",
+      image: "/images/Hello.png",
+      link: "https://leonemunyao.netlify.app/"
+    },
+    {
       title: "Flowchain",
       year: "2024",
       description: "Flowchain is a decentralized application built on the Internet Computer Protocol blockchain layer. Its main aim is to allow users to manage their logistics in one platform.",
@@ -17,29 +45,15 @@ export default function Projects() {
       title: "Livestock Management System",
       year: "2024",
       description: "This is a Rust Smart Contract for Livestock Management System which enables a farmer to manage his cattle farm with ease. This system has incorporated the basic CRUD operations. Through the system, a farmer records cattle breed, age, height, health records, update health status and medical records.",
-      image: "/images/livestock.png",
+      image: "/images/livestock1.jpeg",
       link: "https://github.com/leonemunyao/Get_Rusty/tree/main/rust_smart_contract1/Livestock_Management/livestock_management"
-    },
-    {
-      title: "Portfolio Website",
-      year: "2025",
-      description: "A modern, responsive portfolio website built with Next.js and Tailwind CSS, showcasing my projects and professional experience.",
-      image: "/images/Hello.png",
-      link: "https://leonemunyao.netlify.app/"
     },
     {
       title: "Crop Yield System",
       year: "2024",
       description: "This is a Rust Smart Contract for crop yield system which enables a farmer to manage their crop details. Through this system a farmer can predict crop yield through analysing the weather conditions and other factors such as fertilizer application.",
-      image: "/images/cropyield.png",
+      image: "/images/crops.jpeg",
       link: "https://github.com/leonemunyao/Get_Rusty/tree/main/rust_smart_contract1/Crop_Yield_System/crop_yield_system"
-    },
-    {
-      title: "Loan Management System",
-      year: "2024",
-      description: "This is a loan management system built on the Internet Computer Protocol blockchain layer.",
-      image: "/images/loanmanagement.png",
-      link: "https://github.com/leonemunyao/defiloan"
     }
   ];
 

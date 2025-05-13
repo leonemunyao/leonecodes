@@ -5,10 +5,14 @@ export default function About() {
     'Debugging',
     'Shell Navigation',
     'Rust',
-    'Move',
+    'Git',
     'Linux',
+    'Postman',
+    'SQL',
     'C Programming',
-    'JavaScript',
+    'Python',
+    'PostgreSQL',
+    'RESTful APIs',
     'TypeScript'
   ];
 
@@ -30,8 +34,8 @@ export default function About() {
           <div className="space-y-6">
             <h1 className="text-5xl font-bold">MY BIOGRAPHY</h1>
             <p className="text-gray-400 leading-relaxed">
-              I&apos;m a Software Developer with a passion for creating impactful web and 
-              blockchain applications. My goal is to leverage technology to solve real-world 
+              Leone is a Back-End Developer with a passion for creating impactful web and 
+              blockchain applications. His goal is to leverage technology to solve real-world 
               problems and deliver high-quality, reliable code.
             </p>
           </div>
