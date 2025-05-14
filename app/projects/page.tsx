@@ -7,7 +7,7 @@ import { ExternalLink } from 'lucide-react';
 export default function Projects() {
   const projects = [
     {
-      title: "Belle Airport - SQL Datbase",
+      title: "Belle Airport - SQL Database",
       year: "2025",
       description: "This is a SQLite Database System to manage airport operations including flights, reservations, and personnel management. It consists of 8 interconnected tables. The tables are; Airport Table, Flight Table, Departure Table, Pilot Table, Equip_Type Table, Passenger Table, Ticket Table and Reservation Table.",
       image: "/images/Airport.jpeg",
