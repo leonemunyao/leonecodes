@@ -14,7 +14,7 @@ export default function Home() {
           </div>
           
           <div className="hero-badge">
-            A DEVELOPER
+            A BACK-END DEVELOPER
           </div>
           
           <p className="text-gray-400 max-w-lg">
